@@ -18,7 +18,7 @@
 
 - Visit http://localhost:3000 to view the app.
 
-## Overview 📋
+## Overview 📋 
 
 This **Streamline - Task Management Web Application** is a robust and user-friendly platform that helps individuals and teams manage their tasks efficiently. It allows users to organize, prioritize, and track the progress of their tasks with real-time updates, ensuring smooth project management.
 
